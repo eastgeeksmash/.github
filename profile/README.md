@@ -9,7 +9,7 @@
 ---
 
 ## 💡 About Us
-**East Geek Smash(EGS)**はスマブラを始めとするゲームのオフ大会運営&配信クルーです。
+**East Geek Smash(EGS)** はスマブラを始めとするゲームのオフ大会運営&配信クルーです。
 
 ## 🚀 What We Do
 - **Tournament Organizing**: `EGS Cup` や `Weekly Smash Party (スマパ！)` などの大会企画・運営
